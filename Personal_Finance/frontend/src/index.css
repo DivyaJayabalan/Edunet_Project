@@ -49,7 +49,7 @@
 
 /* index.css */
 .login-page, .register-page {
-  background: url("D:\Ammu\Personal_Finance\frontend\public\image\bg.jpg") no-repeat center center;
+  background: url('/public/image/bg.jpg') no-repeat center center;
   background-size: cover;
   min-height: 100vh;
   display: flex;
